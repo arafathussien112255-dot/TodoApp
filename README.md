@@ -47,3 +47,10 @@ Arafat Hossain Nirob
 ## License
 
 This project is created for educational purposes.
+## Project Screenshots
+
+![Todo App Screenshot](photos/photos%201.jpg)
+
+git add README.md
+git commit -m "Add screenshot to README"
+git push
