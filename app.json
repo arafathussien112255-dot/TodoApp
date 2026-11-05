@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "TodoApp",
+    "slug": "todoapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#101827"
+    },
+    "android": {
+      "package": "com.arafat.todoapp"
+    }
+  }
+}
