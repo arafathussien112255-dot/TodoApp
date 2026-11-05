@@ -1,0 +1,13 @@
+GITHUB UPLOAD COMMANDS
+
+1) Create an empty repository on GitHub (for example: TodoApp). Do not add README from GitHub if this folder already has one.
+2) In terminal, inside this TodoApp folder, run:
+
+git init
+git add .
+git commit -m "Lab Task 1: Todo List App"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/TodoApp.git
+git push -u origin main
+
+Replace YOUR-USERNAME with your GitHub username.
